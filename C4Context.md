@@ -1,4 +1,4 @@
-
+```mermaid
 %%{init: { 'securityLevel': 'loose' } }%%
 
     C4Context
@@ -47,3 +47,5 @@
       UpdateRelStyle(SystemC, customerA, $textColor="red", $lineColor="red", $offsetX="-50", $offsetY="20")
 
       UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
+
+```
